@@ -1,0 +1,15 @@
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\bin\Debug\net5.0\GoToWorkContracts.deps.json
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\bin\Debug\net5.0\GoToWorkContracts.dll
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\bin\Debug\net5.0\GoToWorkContracts.pdb
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\obj\Debug\net5.0\GoToWorkContracts.csproj.AssemblyReference.cache
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\obj\Debug\net5.0\GoToWorkContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\obj\Debug\net5.0\GoToWorkContracts.AssemblyInfoInputs.cache
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\obj\Debug\net5.0\GoToWorkContracts.AssemblyInfo.cs
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\obj\Debug\net5.0\GoToWorkContracts.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\obj\Debug\net5.0\GoToWorkContracts.dll
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\obj\Debug\net5.0\refint\GoToWorkContracts.dll
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\obj\Debug\net5.0\GoToWorkContracts.pdb
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\obj\Debug\net5.0\ref\GoToWorkContracts.dll
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\bin\Debug\net5.0\GoToWorkContracts.runtimeconfig.json
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\bin\Debug\net5.0\GoToWorkContracts.runtimeconfig.dev.json
+C:\Users\Anton\source\repos\CourseWork\GoToWorkContracts\obj\Debug\net5.0\GoToWorkContracts.genruntimeconfig.cache
